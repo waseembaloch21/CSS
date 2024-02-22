@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: royalblue;
+}
+
+.card-container{
+    display: inline-table;
+    justify-content:center;
+    flex-wrap: wrap;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.card{
+    width: 325px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 2);
+    margin: 20px;
+}
+
+.card img{
+    width: 100%;
+    height: auto;
+}
+
+.card-content{
+    padding: 16px;
+}
+
+
+
+
