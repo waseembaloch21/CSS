@@ -1,0 +1,16 @@
+nav{
+    background-color: blue;
+    height: 50px;
+    display: flex;
+    
+    
+}
+
+img{
+    height: 50px;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
